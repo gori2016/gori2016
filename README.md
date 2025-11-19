@@ -1,5 +1,5 @@
 ## Olá eu sou o Igor Borges!!
-
+- Tenho 19 Anos
 - 📷 Em busca da minha primeira oportunidade na área
 - 🌿 Cursando a faculdade de Analise e Desenvolvimento de Sistemas.
 - <div style="display: inline_block"><br>
