@@ -15,6 +15,8 @@
   <img align="center" alt="Igoor-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Igoor-Trello" height="30" width="40" src="https://cdn.simpleicons.org/trello/0052CC" />
   <img align="center" alt="Igoor-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="Igoor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
 
 
 
