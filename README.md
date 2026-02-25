@@ -24,7 +24,7 @@ Tenho interesse em construir aplicações modernas, escaláveis e bem estruturad
 ### 🖥 Back-end
 <p>
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg](https://cdn.freebiesupply.com/logos/thumbs/2x/express-109-logo.png" />
 </p>
 
 ### 🛠 Ferramentas
