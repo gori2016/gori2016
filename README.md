@@ -1,8 +1,11 @@
-## 👋 Olá, eu sou o Igor Borges!
+# 👋 Olá, eu sou o Igor Borges  
 
-* 🎓 19 anos
-* 📷 Em busca da minha primeira oportunidade na área
-* 🌿 Cursando Análise e Desenvolvimento de Sistemas
+🎯 Desenvolvedor Full Stack em formação  
+🎓 19 anos  
+🌿 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Focado em desenvolvimento web com JavaScript, React e Node.js  
+
+Tenho interesse em construir aplicações modernas, escaláveis e bem estruturadas, aplicando boas práticas de desenvolvimento e organização de código.
 
 ---
 
@@ -21,16 +24,20 @@
 ### 🖥 Back-end
 <p>
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 </p>
 
 ### 🛠 Ferramentas
 <p>
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="Nodemon" height="30" width="40" src="https://cdn.simpleicons.org/nodemon/76D04B" />
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Trello" height="30" width="40" src="https://cdn.simpleicons.org/trello/0052CC" />
 </p>
+
+---
 
 ## 📫 Contato
 
